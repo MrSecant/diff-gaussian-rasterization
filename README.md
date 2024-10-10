@@ -12,7 +12,7 @@ This repository provides a CPU-based implementation of the Differential Gaussian
 Clone this repository:
 
 ```bash
-git clone https://github.com/mmt-at/diff-gaussian-rasterization.git c-diff-gaussian-rasterization
+git clone https://github.com/MrSecant/diff-gaussian-rasterization.git c-diff-gaussian-rasterization
 ```
 
 To build the project, simply run the following:
